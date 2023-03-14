@@ -16,12 +16,14 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "gatsby": "^5.4.2",
+    "@builder.io/gatsby": "^3.0.3",
+    "@builder.io/react": "^2.0.13",
+    "gatsby": "^5.5.0",
     "gatsby-plugin-google-gtag": "^5.4.0",
     "gatsby-plugin-image": "^3.4.0",
     "gatsby-plugin-manifest": "^5.4.0",
     "gatsby-plugin-sharp": "^5.4.0",
-    "gatsby-plugin-sitemap": "^6.4.0",
+    "gatsby-plugin-sitemap": "^6.7.0",
     "gatsby-source-filesystem": "^5.4.0",
     "gatsby-transformer-sharp": "^5.4.0",
     "react": "^18.2.0",
